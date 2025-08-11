@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi I'm Timothy Lin 👋<br /><sub>Major in Computer Science at UNCC
 <!--
 **TimothyLin8888/TimothyLin8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on improving my GitHub
-- 🌱 I’m currently learning Machine Learning, SQL, NLP, Computer Vision
+- 🔭 I’m currently working on Django Projects
+- 🌱 I’m currently learning NLP, SQL, React, Django
+
+# Connect with me:
+<a href="https://www.linkedin.com/in/timothylin8888/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
