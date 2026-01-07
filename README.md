@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Django Projects
-- 🌱 I’m currently learning NLP, SQL, React, Django
+- 🔭 I’m currently working on [RAG Knowledge Assistant](https://github.com/TimothyLin8888/RAG-Knowledge-Assistant)
+- 🌱 I’m currently learning NLP, Computer Vision, and Time Series
 
 # Connect with me:
 <a href="https://www.linkedin.com/in/timothylin8888/">
