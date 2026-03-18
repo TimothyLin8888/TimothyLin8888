@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [RAG Knowledge Assistant](https://github.com/TimothyLin8888/RAG-Knowledge-Assistant)
+- 🔭 I’m currently working on [Movie List Ordering System](https://github.com/TimothyLin8888/Movie_List_Ordering_System)
 - 🌱 I’m currently learning NLP, Computer Vision, and Time Series
 
 # Connect with me:
